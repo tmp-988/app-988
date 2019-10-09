@@ -1,4 +1,4 @@
-{
+const issues = {
   "action": "opened",
   "issue": {
     "number": 1,
@@ -13,3 +13,5 @@
     }
   }
 }
+
+export default issues
